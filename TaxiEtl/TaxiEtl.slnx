@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Code/">
+    <Project Path="TaxiEtl.Application/TaxiEtl.Application.csproj" Id="2d525509-2226-412d-bb7d-4cc5fb003e62" />
+    <Project Path="TaxiEtl.Domain/TaxiEtl.Domain.csproj" Id="9ce350b0-89d4-40a7-983a-f2b600a24d51" />
+    <Project Path="TaxiEtl.Infrastructure/TaxiEtl.Infrastructure.csproj" Id="6d9e8949-1139-49de-b86a-530b532f2bd6" />
+    <Project Path="TextEtl.Cli/TextEtl.Cli.csproj" Id="bee548a9-ed3c-44d3-8dde-69f0487c06e3" />
+  </Folder>
+  <Folder Name="/Code/Scripts/">
+    <File Path="script.sql" />
+  </Folder>
+  <Folder Name="/Tests/">
+    <Project Path="UnitTests/UnitTests.csproj" Id="4aa1d3db-1ded-4618-b393-eafa42af3d65" />
+  </Folder>
+</Solution>
